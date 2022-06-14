@@ -1,1 +1,1 @@
-(()=>{"use strict";!function(){let o=new Date;console.log(o),console.log("test imports")}()})();
+(()=>{"use strict";!function(){let o=new Date;console.log(o),console.log("test imports"),console.log("OK DEV")}()})();
