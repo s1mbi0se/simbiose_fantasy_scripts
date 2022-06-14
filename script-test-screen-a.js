@@ -1,1 +1,0 @@
-(()=>{"use strict";!function(){let o=new Date;console.log(o),console.log("test imports")}()})();
