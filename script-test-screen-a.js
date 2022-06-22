@@ -1,1 +1,1 @@
-(()=>{"use strict";!function(){let o=new Date;console.log("TODAY IS :",o),console.log("test imports"),console.log("OK DEV")}()})();
+console.log("ESSTE ARQUIVO FOI ALTERADO 22-JUN 14:24");
