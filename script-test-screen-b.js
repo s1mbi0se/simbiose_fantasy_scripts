@@ -1,1 +1,0 @@
-(()=>{"use strict";var e={};(e=>{"undefined"!=typeof Symbol&&Symbol.toStringTag&&Object.defineProperty(e,Symbol.toStringTag,{value:"Module"}),Object.defineProperty(e,"__esModule",{value:!0})})(e),(0,e.default)()})();/*! Wed Jun 22 2022 19:02:54 GMT+0000 (Coordinated Universal Time) !*/
