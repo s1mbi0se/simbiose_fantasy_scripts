@@ -1,0 +1,14 @@
+name: CI
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: [ self-hosted ]
+    steps:
+      - name: clear all
+        run: sudo rm -rf
