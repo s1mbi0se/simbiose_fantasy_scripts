@@ -1,1 +1,1 @@
-components.modalSair.onClick((()=>{logOut()}));/*! Mon Jul 11 2022 10:42:31 GMT+0000 (Coordinated Universal Time) !*/
+components.modalSair.onClick((()=>{logOut()}));/*! Mon Jul 11 2022 10:44:51 GMT+0000 (Coordinated Universal Time) !*/
