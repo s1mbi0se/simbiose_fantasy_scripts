@@ -1,0 +1,1 @@
+(()=>{const e=getPlatform();components.fantasy_management_packs.setTableFetch((async()=>await executeAction("query-select-operation-system-id",null,{platform:e}))),components.fantasy_management_packs.reload()})();/*! Mon Jul 18 2022 16:39:07 GMT-0300 (Horário Padrão de Brasília) !*/
