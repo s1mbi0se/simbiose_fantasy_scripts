@@ -1,1 +1,1 @@
-setTimeout((function(){location.reload()}),2e4);/*! Mon Jul 18 2022 16:39:07 GMT-0300 (Horário Padrão de Brasília) !*/
+setTimeout((function(){location.reload()}),2e4);/*! Mon Jul 18 2022 20:37:18 GMT+0000 (Coordinated Universal Time) !*/
