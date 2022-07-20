@@ -1,0 +1,1 @@
+(()=>{const o=generateVidelCall();console.log(o),console.log("data"),console.log("data")})();/*! Wed Jul 20 2022 19:56:51 GMT+0000 (Coordinated Universal Time) !*/
