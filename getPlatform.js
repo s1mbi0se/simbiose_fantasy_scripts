@@ -1,1 +1,1 @@
-(()=>{const e=getPlatform();components.fantasy_management_packs.setTableFetch((async()=>await executeAction("query-select-operation-system-id",null,{platform:e}))),components.fantasy_management_packs.reload()})();/*! Fri Jul 22 2022 15:42:37 GMT+0000 (Coordinated Universal Time) !*/
+(()=>{const e=getPlatform();components.fantasy_management_packs.setTableFetch((async()=>await executeAction("query-select-operation-system-id",null,{platform:e}))),components.fantasy_management_packs.reload()})();/*! Fri Jul 22 2022 19:20:55 GMT+0000 (Coordinated Universal Time) !*/
